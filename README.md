@@ -41,7 +41,7 @@ Este projeto envolve a realização de uma auditoria de licenciamento de softwar
   ![image](https://github.com/user-attachments/assets/bd6c7405-df57-4035-ad8c-a998e1250d8e)
 
 3. **Geração de Relatórios:**  
-   Após a conclusão do escaneamento, foi gerado um relatório detalhado utilizando os recursos de geração de relatórios do FOSSology. O relatório foi exportado em formato PDF para análise posterior.
+   Após a conclusão do escaneamento, foi gerado um relatório detalhado utilizando os recursos de geração de relatórios do FOSSology. O relatório foi exportados e anexados no repositório
 
 
 
