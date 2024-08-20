@@ -1,3 +1,5 @@
+Equipe: Ruan Cardozo, Guilherme Elias, Guilherme Machado
+
 # Projeto de Auditoria de Licenciamento de Software
 
 ## Visão Geral
